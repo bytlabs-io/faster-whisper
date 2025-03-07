@@ -311,4 +311,5 @@ _LANGUAGE_CODES = (
     "yo",
     "zh",
     "yue",
+    "aka",
 )
